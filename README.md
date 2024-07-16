@@ -1,5 +1,19 @@
 # eBPF Day Hands On
 
+<!--
+#field
+Learning
+
+#groups
+Courses
+
+#languages
+C
+
+#frames and libs
+
+-->
+
 This repo contains everything you need to start experiment with eBPF. 
 
 You only need to have a kernel compiled with `CONFIG_DEBUG_INFO_BTF=y` Kconfig. Many Linux distro comes with a kernel compiled with this parameter. Complete list of supported kernel can be found [here](https://github.com/libbpf/libbpf?tab=readme-ov-file#bpf-co-re-compile-once--run-everywhere).
